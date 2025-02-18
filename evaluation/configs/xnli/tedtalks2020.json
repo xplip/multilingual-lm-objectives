@@ -1,0 +1,12 @@
+{
+    "languages": ["es", "fr", "bg", "vi", "tr", "hi", "zh"],
+    "retrieval_max_examples": 3000,
+    "block_size": 128,
+    "compute_iso": true,
+    "compute_cka": true,
+    "compute_rsa": true,
+    "retrieval_data_dir": "../../data/tedtalks2020",
+    "eval_pretrained_model_name_or_path": "xlm-roberta-base",
+    "eval_batch_size": 256,
+    "layers": [0, 8]
+}

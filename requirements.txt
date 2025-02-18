@@ -1,0 +1,13 @@
+datasets
+gdown
+isoscore
+scikit-learn
+seqeval
+opacus
+tatoebatools
+torch==1.10.0
+transformers==4.9.2
+seaborn
+spacy
+scipy
+wandb
